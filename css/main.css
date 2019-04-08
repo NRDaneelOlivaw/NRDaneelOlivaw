@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9a7fff;
+  background: #dff775;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2773,7 +2773,7 @@ embed {
   background-image: linear-gradient(90deg, #a166ab 0%, #ef4e7b 25%, #f37055 50%, #ef4e7b 75%, #a166ab 100%);
 }
 body {
-  background: url("/images/sky.jpg");
+  background: url("/images/mday.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
